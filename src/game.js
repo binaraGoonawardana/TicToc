@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 
 import Board from './board';
 
+// keeps game logic
 class Game extends Component {
   constructor(props) {
     super(props);
