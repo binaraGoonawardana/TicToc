@@ -3,6 +3,7 @@ import React, {Component} from 'react';
 // import game board
 import Board from './board';
 
+// keeps game logic
 class Game extends Component {
   constructor(props) {
     super(props);
